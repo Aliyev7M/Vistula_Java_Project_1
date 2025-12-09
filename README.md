@@ -37,13 +37,23 @@ It takes optional parameter from user and displays it in view.
 
 /greeting?name=Mahammad
 
-Default Parameter is "Vistula"
+Default Parameter is "World"
 
 --USAGE--
 
 /greeting?name=Mahammad
 
 Result - Hello, Mahammad!
+
+<img width="1620" height="722" alt="Screenshot 2025-12-09 at 08 50 58" src="https://github.com/user-attachments/assets/9fb87a4d-486d-4592-9cbd-8c9e0812a852" />
+
+/greeting?name=
+
+Result - Hello, World!
+
+<img width="810" height="518" alt="Screenshot 2025-12-09 at 08 51 19" src="https://github.com/user-attachments/assets/31c3fbfd-0037-4aea-8d1b-e89f61e80179" />
+
+
 
 -------------------------------------
 
